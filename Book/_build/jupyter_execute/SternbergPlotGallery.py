@@ -121,4 +121,5 @@ ax.set_title("Just your friendly neighborhood histogram!", y = 1.1)
 
 ax = sns.histplot(x = "rt", hue = "present", data = data)
 
-ax.set_title("Overlapping histrorams!", y = 1.1)
+ax.set_title("Overlapping histograms!", y = 1.1)
+
