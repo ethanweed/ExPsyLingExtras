@@ -1,0 +1,11 @@
+# Book settings
+
+
+title: ExPsyLing
+author: Ethan Weed
+
+
+# Force re-execution of notebooks on each build.
+
+execute:
+  execute_notebooks: force
